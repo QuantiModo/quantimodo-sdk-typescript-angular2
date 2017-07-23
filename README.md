@@ -1,0 +1,1 @@
+# quantimodo-sdk-typescript-angular2
